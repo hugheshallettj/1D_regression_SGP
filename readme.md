@@ -1,0 +1,1 @@
+Notebook comparing SVGP (Hensman 2013) with SGPR (Titsias 2009) for 1D regression.
